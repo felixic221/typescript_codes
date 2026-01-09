@@ -47,4 +47,4 @@ function join<T> (ar1: T[], ar2: T[]): T[]{
 
 const ar = join<string | number>([1,2,3], ["hello"]);
 
-
+const greeting = "hello";
