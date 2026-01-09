@@ -49,3 +49,4 @@ const ar = join<string | number>([1,2,3], ["hello"]);
 
 const greeting = "hello";
 const bruh = "googd";
+const boy = "you boy"
